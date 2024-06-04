@@ -1,0 +1,36 @@
+html,
+
+       body{
+            margin-top: 130px;
+            height: 70vh;
+            background: url( "https://images.template.net/96416/blue-watercolor-background-d6g5y.jpg")no-repeat center/cover;
+        }
+
+        code{
+            font:italic 600 20px/1.5em poppins, serif;
+            border: 1px solid #f4bd50;
+            border-radius: 4px;
+            background-color: #f4bd5030;
+            padding: 2px;
+        }
+      
+        samp{
+            font:italic 600 20px/1.5em Calibri, serif;
+            border: 1px solid #b881ff;
+            border-radius: 4px;
+            background-color:  #b881ff30;
+            padding: 2px;
+        }
+
+
+        Kbd{
+
+            border: 2px solid black;
+            box-shadow: 2px 2px black;
+            font-weight: bold;
+            padding: 2px 4px 2px 2px;
+            margin: 4px 1px 1px 10px;
+        }
+
+        
+    
